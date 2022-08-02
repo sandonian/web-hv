@@ -15,6 +15,7 @@
 importScripts("property_formatter.js")
 importScripts("../../third_party/protobuf.min.js")
 importScripts("viewnode.js")
+importScripts("../constants.js")
 
 let rootNodes /* ViewNode[] */
 let formattingIndex = 0
